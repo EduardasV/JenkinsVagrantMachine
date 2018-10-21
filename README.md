@@ -106,10 +106,10 @@ To use the <a href="https://github.com/RCollettSG/JenkinsCookbook">Jenkins cookb
   cd /var/lib/jenkins
 ```
 
-5. <p style="font-size: 16px;"> Change the permissions on the secrets folder to 700 </p>
+5. <p style="font-size: 16px;"> Change the permissions on the secrets folder to 755 to allow access into it </p>
 
 ```bash
-  sudo chmod 700 secrets/
+  sudo chmod 755 secrets/
 ```
 
 
@@ -125,12 +125,24 @@ To use the <a href="https://github.com/RCollettSG/JenkinsCookbook">Jenkins cookb
 
 2. <p style="font-size: 16px;">Copy and paste the initial admin password into the relevant text box</p>
 
+![Initial Jenkins Screen](./readmeimg/initjenkins.png)
+
 3. <p style="font-size: 16px;">Choose how you want to install Jenkins</p>
 
-4. <p style="font-size: 16px;">Setup a normal account, an admin account or both</p>
+![Jenkins install screen](./readmeimg/jenkinsinstall.png)
+
+![Jenkins install screen 2](./readmeimg/jenkinsinstall2.png)
+
+4. <p style="font-size: 16px;">Setup your first admin user account</p>
+
+![Initial Jenkins Screen](./readmeimg/jenkinsadmin.png)
 
 5. <p style="font-size: 16px;">Set your Jenkins URL</p>
 
+![Jenkins instance config](./readmeimg/jenkinsinstconf.png)
+
 6. <p style="font-size: 16px;">Welcome to Jenkins!</p>
+
+![Jenkins home screen](./readmeimg/jenkinshome.png)
 
 ---
