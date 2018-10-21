@@ -125,24 +125,24 @@ To use the <a href="https://github.com/RCollettSG/JenkinsCookbook">Jenkins cookb
 
 2. <p style="font-size: 16px;">Copy and paste the initial admin password into the relevant text box</p>
 
-![Initial Jenkins Screen](./readmeimg/initjenkins.png)
+ <img width="400px;" src="./readmeimg/initjenkins.png" alt="Initial Jenkins Screen">
 
 3. <p style="font-size: 16px;">Choose how you want to install Jenkins</p>
 
-![Jenkins install screen](./readmeimg/jenkinsinstall.png)
+<img width="400px;" src="./readmeimg/jenkinsinstall.png" alt="Jenkins install screen">
 
-![Jenkins install screen 2](./readmeimg/jenkinsinstall2.png)
+<img width="400px;" src="./readmeimg/jenkinsinstall2.png" alt="Jenkins install screen 2">
 
 4. <p style="font-size: 16px;">Setup your first admin user account</p>
 
-![Initial Jenkins Screen](./readmeimg/jenkinsadmin.png)
+<img width="400px;" src="./readmeimg/jenkinsadmin.png" alt="Initial Jenkins Screen">
 
 5. <p style="font-size: 16px;">Set your Jenkins URL</p>
 
-![Jenkins instance config](./readmeimg/jenkinsinstconf.png)
+<img width="400px;" src="./readmeimg/jenkinsinstconf.png" alt="Jenkins instance config">
 
 6. <p style="font-size: 16px;">Welcome to Jenkins!</p>
 
-![Jenkins home screen](./readmeimg/jenkinshome.png)
+<img width="400px;" src="./readmeimg/jenkinshome.png" alt="Jenkins home screen">
 
 ---
