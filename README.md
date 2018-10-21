@@ -41,11 +41,11 @@ Jenkins builds are colour coded and can be customised to suit the needs of the d
 
 ### Initial preparation
 
-1. <p style="font-size: 18px;">
+1.<p style="font-size: 18px;">
 Download and install <a href="https://www.vagrantup.com/">Vagrant 2.2.0</a>
 </p>
 
-2. <p style="font-size: 18px;">
+2.<p style="font-size: 18px;">
 Ensure that it is install by running:
 </p>
 
